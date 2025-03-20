@@ -1,0 +1,28 @@
+.header{
+    color: red;
+    font-size: 24px
+}
+.header.main{
+    font-size: 34px;
+}
+.list{
+    font-family: 'Times New Roman', sans-serif;
+    font-weight: 700;
+}
+#ingredients{
+    background-color: aquamarine;
+}
+#steps{
+    background-color: lightcoral;
+}
+.image{
+    width:400px;
+    height: auto;
+}
+button{
+  background-color : red;
+  color: white;
+}
+button:hover{
+    background-color: gray;
+}
